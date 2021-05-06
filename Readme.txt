@@ -1,6 +1,7 @@
 # Scratch Wii Remote Extension
 
 This extension is for use with the Scratch offline editor. It has been written in Python 2.
+![extension visable in scratch](wii%20remotes.png?raw=true "Title")
 
 It is a bit of a nightmare to use this as it was written in 2016 in python 2. Even worse the wii remote library I am using only works on linux so the setup is more complicated.
 First find yourself a raspberry pie or similar. Install python2 and cwiid. Run `Wii Server.py` on the raspberry pie. On your main machine edit Wii Remote.py so that it connects
